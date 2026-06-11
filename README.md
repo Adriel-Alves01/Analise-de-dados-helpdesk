@@ -87,10 +87,19 @@ jupyter notebook
 - Frequência de ocorrência
 - Distribuição de canais (Chat, Social Media, Email)
 
+
+![Top 5 Tipos de Tickets](graficos/grafico_5_tipos_.png)
+
+
+
+
 ### 5 Visualizações Profissionais
 - Gráfico pizza: Distribuição de status (Aberto/Fechado/Pendente)
 - Gráfico barras: Volume por prioridade
 - Gráfico barras: Top 5 tipos de problemas
+
+
+![grafico distribuição](graficos/grafico_pizza.png)
 
 ##  Principais Insights
 
