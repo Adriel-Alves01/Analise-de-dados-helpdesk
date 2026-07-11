@@ -44,7 +44,7 @@ Este projeto analisa um dataset de mais de 5.000 tickets de suporte técnico par
 
 ```bash
 # Clone o repositório
-git clone <seu-repositório>
+git clone <ropositorio>
 cd "Analise de dados"
 
 # Crie um ambiente virtual 
